@@ -31,7 +31,7 @@ You can run a command-line tool called the [Assembly Registration Tool (Regasm.e
 
 - In the application directory. Assemblies loaded from the application path are only accessible from that application.
 
-- Along an file path specified with the **/codebase** option to Regasm.exe.
+- Along a file path specified with the **/codebase** option to Regasm.exe.
 
  Regasm.exe also creates the InProcServer32 key under the HKCR\CLSID\\{0000…0000} key. The default value for the key is set to the name of the DLL that initializes the common language runtime (Mscoree.dll).
 
