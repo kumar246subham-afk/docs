@@ -26,7 +26,7 @@ Microsoft released the source code of Orleans under an MIT license on [GitHub](h
 
 ### Is Orleans a server product? How do I run Orleans?
 
-Orleans is a framework, a set of libraries, that helps you build an application. Orleans-based applications can be run in various hosting environments, in the Cloud or on on-premises clusters, or even on a single machine. It is the responsibility of application developers to build, deploy, and run an Orleans-based application in their target hosting environment.
+Orleans is a framework, a set of libraries, that helps you build an application. Orleans-based applications can be run in various hosting environments, in the Cloud or on-premises clusters, or even on a single machine. It is the responsibility of application developers to build, deploy, and run an Orleans-based application in their target hosting environment.
 
 ### Where can I run Orleans?
 
@@ -34,7 +34,7 @@ Orleans can run in any environment where .NET application can run. Before Orlean
 
 ### Is Orleans built for Azure?
 
-No. We believe that you should be able to run Orleans anywhere you need, the way you need. Orleans is very flexible and has several optional providers that help host it in cloud environments, such as Azure, AWS or GCP, or on on-premises clusters, with a choice of technologies to support Orleans' clustering protocol.
+No. We believe that you should be able to run Orleans anywhere you need, the way you need. Orleans is very flexible and has several optional providers that help host it in cloud environments, such as Azure, AWS or GCP, or on-premises clusters, with a choice of technologies to support Orleans' clustering protocol.
 
 ### What is the difference between Orleans and other actor languages and frameworks, such as Erlang or Akka?
 
