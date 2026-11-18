@@ -64,7 +64,7 @@ This activity is a child of an *HTTP client request* activity. It represents the
 
 ### HTTP connection setup (experimental)
 
-This activity describes the establishment of an HTTP connection. Typically, this includes the the time it takes to resolve the DNS, establish the socket connection, and perform the TLS handshake.
+This activity describes the establishment of an HTTP connection. Typically, this includes the time it takes to resolve the DNS, establish the socket connection, and perform the TLS handshake.
 
 | Availability | <xref:System.Diagnostics.ActivitySource> name | <xref:System.Diagnostics.Activity.OperationName> | <xref:System.Diagnostics.Activity.DisplayName> |
 |---|---|---|---|
